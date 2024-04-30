@@ -10,4 +10,4 @@ There are 2 main files in the project
 1)SMEVCS.war file
 2)Database file
 
-To open the project in eclipse and and for database backend connectivity use MySQL GUI TOOLS (MySQL query browser)
+To open the project in eclipse,TOMCAT 9.O and for database backend connectivity use MySQL GUI TOOLS (MySQL query browser)
